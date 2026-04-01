@@ -18,7 +18,7 @@ const about = {
     },
     {
       fieldName: "Experience",
-      fieldValue: "2+ Years",
+      fieldValue: "3+ Years",
     },
     {
       fieldName: "Email",
@@ -49,12 +49,12 @@ const experience = {
     {
       company: "Margmaker Solution Pvt. Ltd.",
       position: "Full Stack Developer",
-      duration: "Mar 2024 - Present",
+      duration: "May 2024 - Dec 2025",
     },
     {
       company: "Eduuis Techo Solution Pvt. Ltd.",
       position: "Full Stack Developer",
-      duration: "Mar 2023 - Feb 2024",
+      duration: "Jan 2023 - Apr 2024",
     },
   ],
 };
@@ -66,6 +66,11 @@ const education = {
   description:
     "I have a strong educational background in both full stack web development and mathematics, which has equipped me with a comprehensive understanding of problem-solving and analytical skills. My formal education, combined with hands-on experience, has prepared me to tackle complex challenges in the tech industry.",
   items: [
+     {
+      Institution: "NRI Group of Institute",
+      degree: "Master of computer application",
+      duration: "Aug 2025 - Jun 2027",
+    },
     {
       Institution: "Masai School",
       degree: "Full Stack Web Development Bootcamp",
